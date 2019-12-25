@@ -22,10 +22,10 @@ Because I haven't come far at the actual convert part, It's more of a template f
 - Useable: No
 - Reason useability: You can move arround and change objects but there is nop meaning to it yet
 - Main features included: 
- - Creating and editing objects
- - Importing and using resources
+   - Creating and editing objects
+   - Importing and using resources
 - Main features missing: 
- - Most object types
+   - Most object types
  - Convertion between .json and application objects
  - Switching between keymodes
 
