@@ -27,9 +27,10 @@ Because I haven't come far at the actual convert part, It's more of a template f
 - Main features missing: 
  - Most object types
  - Convertion between .json and application objects
+ - Switching between keymodes
 
 
 ## Screenshots
-![](/Screenshots/.png)
+![Functionalities](/Screenshots/Functionalities.gif)
 
-![](/Screenshots/.png)
+![Import](/Screenshots/Import.gif)
