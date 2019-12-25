@@ -1,2 +1,2 @@
-# SoundsphereSkinningTool
+# Soundsphere-Skinning-Tool
  
