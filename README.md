@@ -26,8 +26,8 @@ Because I haven't come far at the actual convert part, It's more of a template f
    - Importing and using resources
 - Main features missing: 
    - Most object types
- - Convertion between .json and application objects
- - Switching between keymodes
+   - Convertion between .json and application objects
+   - Switching between keymodes
 
 
 ## Screenshots
