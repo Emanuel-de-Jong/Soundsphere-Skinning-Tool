@@ -1,9 +1,13 @@
-# Soundsphere-Skinning-Tool
- 
-## Description
+# Soundsphere Skinning Tool
 A tool for making and editing skins for the game: https://github.com/semyon422/soundsphere
 Because I haven't come far at the actual convert part, It's more of a template for drag, drop and edit applications.
 
+**Active Development:** <br>
+**Last Change:** <br>
+
+| | |
+| :---: | :---: |
+| ![](/Screenshots/1-Functionalities.gif) | ![](/Screenshots/2-Import.gif) |
 
 ## Information
 - Type: Windows Application
@@ -11,7 +15,6 @@ Because I haven't come far at the actual convert part, It's more of a template f
 - Language: English
 - Programming languages: Python
 - Frameworks and libraries: PyQt5, PyQt5Designer
-
 
 ## Progress
 - Start date: 05.10.19
@@ -28,9 +31,3 @@ Because I haven't come far at the actual convert part, It's more of a template f
    - Most object types
    - Convertion between .json and application objects
    - Switching between keymodes
-
-
-## Screenshots
-![Functionalities](/Screenshots/Functionalities.gif)
-
-![Import](/Screenshots/Import.gif)
