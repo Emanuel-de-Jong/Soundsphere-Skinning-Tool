@@ -1,5 +1,6 @@
 # Soundsphere Skinning Tool
-A tool for making and editing skins for the game: https://github.com/semyon422/soundsphere
+A tool for making and editing skins for the rhythm game [Soundsphere](https://github.com/semyon422/soundsphere).
+
 Because I haven't come far at the actual convert part, It's more of a template for drag, drop and edit applications.
 
 **Active Development:** <br>
