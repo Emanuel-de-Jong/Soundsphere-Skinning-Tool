@@ -17,8 +17,8 @@ Because I haven't come far at the actual convert part, It's more of a template f
 - Frameworks and libraries: PyQt5, PyQt5Designer
 
 ## Progress
-- Start date: 05.10.19
-- Last change: 12.10.19
+- Start date: 2019-10-05
+- Last change: 2019-10-12
 - Activity status: Abandoned
 - Reason activity status: The developer started redesigning the skinning system. I will probably use this as an example to make a new version for the new skinning system in the future
 - Completion status: 20%
