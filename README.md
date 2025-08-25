@@ -3,8 +3,8 @@ A tool for making and editing skins for the rhythm game [Soundsphere](https://gi
 
 Because I haven't come far at the actual convert part, It's more of a template for drag, drop and edit applications.
 
-**Active Development:** <br>
-**Last Change:** <br>
+**Active Development:** 2019-10-05 - 2019-10-12<br>
+**Last Change:** 2019-12-25<br>
 
 | | |
 | :---: | :---: |
@@ -18,9 +18,7 @@ Because I haven't come far at the actual convert part, It's more of a template f
 - Frameworks and libraries: PyQt5, PyQt5Designer
 
 ## Progress
-- Start date: 2019-10-05
-- Last change: 2019-10-12
-- Activity status: Abandoned
+- Activity status: Archived
 - Reason activity status: The developer started redesigning the skinning system. I will probably use this as an example to make a new version for the new skinning system in the future
 - Completion status: 20%
 - Useable: No
